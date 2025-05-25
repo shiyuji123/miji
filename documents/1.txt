@@ -1,0 +1,91 @@
+Here are fundamental physics concepts in English with structured explanations:
+
+---
+
+### **1. Mass & Weight**
+**Definition**:  
+- **Mass**: Measure of an object's matter content (scalar quantity)  
+- **Weight**: Force exerted by gravity on mass (vector quantity)  
+
+**Formula**:  
+\[ W = m \times g \]  
+*(W: weight, m: mass, g: gravitational acceleration ≈ 9.8 m/s²)*  
+
+**Units**:  
+- Mass: kilogram (kg)  
+- Weight: newton (N)  
+
+**Example**:  
+A 60kg person on Earth:  
+Weight = 60 kg × 9.8 m/s² = 588 N  
+
+---
+
+### **2. Newton's Laws of Motion**
+**First Law (Inertia)**:  
+"An object maintains its state unless acted upon by external force."  
+
+**Second Law**:  
+\[ F = m \times a \]  
+*(F: net force, m: mass, a: acceleration)*  
+
+**Third Law**:  
+"For every action, there's an equal and opposite reaction."  
+
+**Application**:  
+Car airbags demonstrate First Law by resisting sudden deceleration.  
+
+---
+
+### **3. Energy Forms**
+| Type          | Description                  | Formula           | Unit   |
+|---------------|------------------------------|-------------------|--------|
+| Kinetic       | Motion energy                | \( KE = \frac{1}{2}mv^2 \) | joule (J) |
+| Potential     | Position/stored energy       | \( PE = mgh \)    | joule (J) |
+| Thermal       | Heat energy                  | \( Q = mc\Delta T \) | joule (J) |
+
+**Conservation**:  
+Energy cannot be created/destroyed, only converted (e.g., pendulum motion).  
+
+---
+
+### **4. Electromagnetism Basics**
+**Charge Types**:  
+- **Proton**: +1.6×10⁻¹⁹ C  
+- **Electron**: -1.6×10⁻¹⁹ C  
+
+**Ohm's Law**:  
+\[ V = I \times R \]  
+*(V: voltage, I: current, R: resistance)*  
+
+**Circuit Components**:  
+- **Conductor**: Allows electron flow (e.g., copper)  
+- **Insulator**: Blocks electron flow (e.g., rubber)  
+- **Semiconductor**: Controlled conductivity (e.g., silicon)  
+
+---
+
+### **5. Wave Properties**
+**Key Parameters**:  
+- **Wavelength (λ)**: Distance between crests  
+- **Frequency (f)**: Oscillations per second  
+- **Speed (v)**: \( v = f \times λ \)  
+
+**Spectrum Types**:  
+| Type          | Frequency Range      | Application        |
+|---------------|----------------------|--------------------|
+| Radio         | 3 kHz - 300 GHz      | Broadcasting       |
+| Visible Light | 400-790 THz          | Human vision       |
+| X-ray         | 30 PHz - 30 EHz      | Medical imaging    |
+
+---
+
+### **6. Thermodynamics Laws**
+1. **Zeroth Law**: Thermal equilibrium definition  
+2. **First Law**: \( \Delta U = Q - W \) (Internal energy change)  
+3. **Second Law**: Entropy always increases  
+4. **Third Law**: Absolute zero unattainable  
+
+**Practical Example**:  
+Refrigerators demonstrate 2nd Law by requiring energy to transfer heat.  
+
